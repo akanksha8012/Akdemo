@@ -1,3 +1,3 @@
 # Akdemo
 This is my first repo.
-Author - Akanksha Rani
+Author - Akanksha Rani.
